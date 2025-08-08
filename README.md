@@ -25,6 +25,7 @@ This repository showcases my data analysis projects, demonstrating skills in dat
 ## Project Structure
  - [Data_Analysis_Portfolio](https://github.com/luongtonvy/Data_Analysis_Portfolio)
     - [Supermarket – Range Optimization for Cleaning Sprays](https://github.com/luongtonvy/Data_Analysis_Portfolio/tree/Homepage/Supermarket%20–%20Range%20Optimization%20for%20Cleaning%20Sprays)
+       - [Dashboard](https://github.com/luongtonvy/Data_Analysis_Portfolio/blob/main/Hospital%20(Emergency%20Room)%20Performance/Dashboard%20-%20Hospital.pbix)
     - 
 
 ---
