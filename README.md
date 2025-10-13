@@ -15,11 +15,13 @@ This repository showcases my data analysis projects, demonstrating skills in dat
 ---
 
 ## Tools and Technologies
-- **Languages**: Python, SQL, DAX
-- **Visualization Tools**: Power BI, Tableau, Excel
-- **Data Processing**: Python
-- **Databases**: MySQL
-- **Other**: Git, GitHub for version control
+- **Data analysis tools**: Python, SQL
+- **Reporting tools**: Power BI, Excel, Google Looker Studio (Data Studio)
+- **Product management tools**: Jira, Trello, SharePoint, One Drive, Google Drive, Dropbox, etc.
+- **Data warehouse**: Microsoft Fabric
+- **Data Cloud**: Snowflake
+- **Software for ERP**: SAP S/4HANA Cloud Public Edition
+-	**Software for CRM**: Salesforce
 
 ---
 
@@ -34,6 +36,7 @@ This repository showcases my data analysis projects, demonstrating skills in dat
       - [Dashboard - Pizza Store - Sales Analysis](https://github.com/RyanLuong4work/Data_Analyst_Portfolio/tree/main/Visualization%20Tools%20(Power%20BI%2C%20Tableau%2C%20Looker%20Studio%2C%20etc.)/Dashboard%20-%20Pizza%20Store%20-%20Sales%20Analysis)
     - [SQL](https://github.com/RyanLuong4work/Data_Analyst_Portfolio/tree/main/SQL)
       - [SQL + Python - Warehouse - Sales + Customer Analysis](https://github.com/RyanLuong4work/Data_Analyst_Portfolio/tree/main/SQL/SQL%20%2B%20Python%20-%20Warehouse%20-%20Sales%20%2B%20Customer%20Analysis)
+      - [SQL - Stock Analysis](https://github.com/RyanLuong4work/Data_Analyst_Portfolio/tree/main/SQL/SQL%20-%20Stock%20analysis)
          
 ---
 
